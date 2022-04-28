@@ -4,7 +4,7 @@ description = "utils to convert types to data uri"
 edition = "2021"
 license = "ISC"
 name = "data-uri-utils"
-version = "0.1.0"
+version = "0.2.0"
 
 [dependencies]
 base64 = "0.13.0"
